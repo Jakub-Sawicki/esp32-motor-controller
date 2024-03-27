@@ -1,0 +1,21 @@
+Motor driver pins:
+PWM1 - 16
+PWM2 - 17
+PWM3 - 18
+PWM4 - 19
+5V 
+GND
+
+Encoder motor 1:
+GND
+A phase - 34
+B phase - 35
+VCC (3.3V/5V)
+
+Encoder motor 2:
+GND
+A phase - 36
+B phase - 39
+VCC (3.3V/5V)
+
+USB UART communication with BBB
