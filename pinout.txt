@@ -18,4 +18,6 @@ A phase - 36
 B phase - 39
 VCC (3.3V/5V)
 
-USB UART communication with BBB
+UART communication:
+TX pin - 1
+RX pin - 3
